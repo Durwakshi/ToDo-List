@@ -3,12 +3,13 @@
 This repository contains a Python web API built with Django. The API provides endpoints for managing todo items and user authentication.
 
 **Table of Contents**
-Requirements
-API Endpoints
-TodoController
-AuthController
-Authorization
-JWT Token
+
+**Requirements**
+        API Endpoints
+        TodoController
+        AuthController
+        Authorization
+        JWT Token
 Project Structure
 Documentation
 Submission
